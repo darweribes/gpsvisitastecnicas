@@ -1,0 +1,3302 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810706,
+                        41.2636209
+                    ],
+                    [
+                        1.7794596,
+                        41.3605335
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-01T11:52:45.059Z",
+                "endTimestamp": "2022-11-01T14:13:38.246Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7794903,
+                        41.3605339
+                    ],
+                    [
+                        1.7776365,
+                        41.261313
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-01T14:57:10.211Z",
+                "endTimestamp": "2022-11-01T16:25:11.314Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777391,
+                        41.2612955
+                    ],
+                    [
+                        1.7810689,
+                        41.2636295
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-01T17:21:19.420Z",
+                "endTimestamp": "2022-11-01T17:50:37.225Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7799855,
+                        41.2634482
+                    ],
+                    [
+                        1.7777019,
+                        41.2612839
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-02T13:48:25.513Z",
+                "endTimestamp": "2022-11-02T13:50:28.125Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7778494,
+                        41.2614085
+                    ],
+                    [
+                        1.7810738,
+                        41.2636212
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-02T16:13:14.349Z",
+                "endTimestamp": "2022-11-02T16:20:54.785Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7806936,
+                        41.2635354
+                    ],
+                    [
+                        1.7775628,
+                        41.2613337
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-02T18:02:56Z",
+                "endTimestamp": "2022-11-02T18:04:28.416Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777274,
+                        41.2612818
+                    ],
+                    [
+                        1.7796516,
+                        41.2633504
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-02T18:33:04.258Z",
+                "endTimestamp": "2022-11-02T18:49:13.167Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810739,
+                        41.2636191
+                    ],
+                    [
+                        1.7775403,
+                        41.2613331
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-02T19:41:50.353Z",
+                "endTimestamp": "2022-11-02T19:45:29.524Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7769772,
+                        41.261612
+                    ],
+                    [
+                        1.7805585,
+                        41.2634511
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-03T00:43:23.288Z",
+                "endTimestamp": "2022-11-03T00:45:26.471Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7807253,
+                        41.2635863
+                    ],
+                    [
+                        1.7775507,
+                        41.2613334
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-03T15:04:43.260Z",
+                "endTimestamp": "2022-11-03T15:07:40.337Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7775724,
+                        41.261318
+                    ],
+                    [
+                        1.7804689,
+                        41.2633801
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-03T15:54:14.069Z",
+                "endTimestamp": "2022-11-03T15:56:12.489Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810276,
+                        41.263489
+                    ],
+                    [
+                        1.7776306,
+                        41.2613051
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-03T20:58:38.602Z",
+                "endTimestamp": "2022-11-03T21:02:20Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7779427,
+                        41.2614719
+                    ],
+                    [
+                        1.7796542,
+                        41.2633274
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-03T21:44:55.795Z",
+                "endTimestamp": "2022-11-03T21:49:37.027Z",
+                "activityType": "WALKING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.781057,
+                        41.263617
+                    ],
+                    [
+                        1.7776233,
+                        41.2613214
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-04T16:40:17.893Z",
+                "endTimestamp": "2022-11-04T16:44:17.765Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7775815,
+                        41.261315
+                    ],
+                    [
+                        1.7752198,
+                        41.2604854
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-04T18:05:45.192Z",
+                "endTimestamp": "2022-11-04T18:07:45.056Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7753033,
+                        41.2606106
+                    ],
+                    [
+                        1.7804005,
+                        41.2632698
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-04T18:17:45.654Z",
+                "endTimestamp": "2022-11-04T18:19:45.432Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7804424,
+                        41.2634473
+                    ],
+                    [
+                        1.7776126,
+                        41.2613147
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-05T11:02:02.381Z",
+                "endTimestamp": "2022-11-05T11:04:21.975Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7769466,
+                        41.2617581
+                    ],
+                    [
+                        1.7892625,
+                        41.2699595
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-05T11:32:44.351Z",
+                "endTimestamp": "2022-11-05T11:38:03.503Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7892452,
+                        41.2699582
+                    ],
+                    [
+                        1.7807982,
+                        41.2630478
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-05T11:53:22.149Z",
+                "endTimestamp": "2022-11-05T11:57:36.816Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7808872,
+                        41.2635515
+                    ],
+                    [
+                        1.7775107,
+                        41.261325
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-05T13:08:47.890Z",
+                "endTimestamp": "2022-11-05T13:10:59.478Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7775919,
+                        41.2613568
+                    ],
+                    [
+                        1.7810749,
+                        41.2636198
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-05T14:03:39.851Z",
+                "endTimestamp": "2022-11-05T14:19:56.758Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.780366,
+                        41.263353
+                    ],
+                    [
+                        1.7777735,
+                        41.2613085
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-05T19:16:05.370Z",
+                "endTimestamp": "2022-11-05T19:21:05.044Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777698,
+                        41.2613784
+                    ],
+                    [
+                        1.7764706,
+                        41.2600311
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-05T19:49:08.292Z",
+                "endTimestamp": "2022-11-05T19:52:56.213Z",
+                "activityType": "WALKING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7757289,
+                        41.2594318
+                    ],
+                    [
+                        1.78101,
+                        41.2636081
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-05T21:17:25.268Z",
+                "endTimestamp": "2022-11-05T21:21:45.329Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7807127,
+                        41.2629023
+                    ],
+                    [
+                        1.7685462,
+                        41.2627122
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-06T01:16:02.933Z",
+                "endTimestamp": "2022-11-06T01:21:20.167Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7690542,
+                        41.2628388
+                    ],
+                    [
+                        1.7810879,
+                        41.26363
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-06T01:31:13.004Z",
+                "endTimestamp": "2022-11-06T01:37:16.236Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810692,
+                        41.2636256
+                    ],
+                    [
+                        1.7776204,
+                        41.2613166
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-06T17:38:48.978Z",
+                "endTimestamp": "2022-11-06T17:42:57.393Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777228,
+                        41.2612895
+                    ],
+                    [
+                        1.7809737,
+                        41.2635484
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-06T18:19:15.145Z",
+                "endTimestamp": "2022-11-06T18:21:36.034Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7808949,
+                        41.2635174
+                    ],
+                    [
+                        1.7777855,
+                        41.2613352
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-06T19:19:24.333Z",
+                "endTimestamp": "2022-11-06T19:26:08.552Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777515,
+                        41.261267
+                    ],
+                    [
+                        1.7809633,
+                        41.2635213
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-06T20:24:16.434Z",
+                "endTimestamp": "2022-11-06T20:29:15.730Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.781046,
+                        41.263582
+                    ],
+                    [
+                        1.7776019,
+                        41.2613134
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-06T20:39:21.301Z",
+                "endTimestamp": "2022-11-06T20:43:49.295Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7776394,
+                        41.2613253
+                    ],
+                    [
+                        1.7805587,
+                        41.26307
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-06T22:18:13.463Z",
+                "endTimestamp": "2022-11-06T22:20:48.949Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7795929,
+                        41.2632742
+                    ],
+                    [
+                        1.7776212,
+                        41.2613164
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-06T22:40:01.429Z",
+                "endTimestamp": "2022-11-06T22:41:34.816Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7776159,
+                        41.2613088
+                    ],
+                    [
+                        1.7808624,
+                        41.2634746
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-06T22:53:57.472Z",
+                "endTimestamp": "2022-11-06T22:57:30.878Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7807286,
+                        41.2635625
+                    ],
+                    [
+                        1.7775718,
+                        41.2613334
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-07T09:28:39.696Z",
+                "endTimestamp": "2022-11-07T09:55:56.150Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7783556,
+                        41.2609125
+                    ],
+                    [
+                        1.805737,
+                        41.2343528
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-07T10:55:07.135Z",
+                "endTimestamp": "2022-11-07T11:05:19.183Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8057372,
+                        41.2343534
+                    ],
+                    [
+                        1.777624,
+                        41.2613022
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-07T12:33:27.813Z",
+                "endTimestamp": "2022-11-07T12:47:09.193Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7776529,
+                        41.2613347
+                    ],
+                    [
+                        1.7805498,
+                        41.2631699
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-07T12:57:54.636Z",
+                "endTimestamp": "2022-11-07T13:01:05.291Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810783,
+                        41.2636134
+                    ],
+                    [
+                        1.7777099,
+                        41.2612937
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-07T13:14:20.177Z",
+                "endTimestamp": "2022-11-07T13:20:25.934Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777329,
+                        41.2612885
+                    ],
+                    [
+                        1.7752147,
+                        41.2604905
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-07T13:58:20.037Z",
+                "endTimestamp": "2022-11-07T14:02:03.674Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7752214,
+                        41.2604953
+                    ],
+                    [
+                        1.7806979,
+                        41.2635519
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-07T14:10:10.176Z",
+                "endTimestamp": "2022-11-07T14:16:26.847Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810224,
+                        41.263553
+                    ],
+                    [
+                        1.7776097,
+                        41.2613159
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-08T11:47:58.450Z",
+                "endTimestamp": "2022-11-08T11:51:02.354Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777669,
+                        41.2613103
+                    ],
+                    [
+                        1.7810718,
+                        41.2636401
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-08T13:33:32.811Z",
+                "endTimestamp": "2022-11-08T14:03:12.233Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7809793,
+                        41.2634255
+                    ],
+                    [
+                        1.777624,
+                        41.2613085
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-09T13:30:51.269Z",
+                "endTimestamp": "2022-11-09T13:38:15.681Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7772713,
+                        41.2621457
+                    ],
+                    [
+                        1.7810692,
+                        41.2636143
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-09T13:43:15.643Z",
+                "endTimestamp": "2022-11-09T13:46:39.592Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7811045,
+                        41.2636818
+                    ],
+                    [
+                        1.7777296,
+                        41.2612921
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-09T18:25:19.859Z",
+                "endTimestamp": "2022-11-09T18:35:32.150Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777372,
+                        41.2612807
+                    ],
+                    [
+                        1.7752198,
+                        41.2605108
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-09T19:16:26.898Z",
+                "endTimestamp": "2022-11-09T19:21:43.657Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7752759,
+                        41.2603788
+                    ],
+                    [
+                        1.7810789,
+                        41.2636231
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-09T19:28:13.514Z",
+                "endTimestamp": "2022-11-09T19:33:31.198Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810566,
+                        41.2636204
+                    ],
+                    [
+                        1.7776023,
+                        41.2613161
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-10T16:50:39.239Z",
+                "endTimestamp": "2022-11-10T17:04:20.925Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7775963,
+                        41.2613207
+                    ],
+                    [
+                        1.7751511,
+                        41.2606236
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-10T18:57:17.514Z",
+                "endTimestamp": "2022-11-10T18:59:49.153Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7753788,
+                        41.2604981
+                    ],
+                    [
+                        1.7810555,
+                        41.2636073
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-10T19:07:19.399Z",
+                "endTimestamp": "2022-11-10T19:11:59.702Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7804388,
+                        41.2634695
+                    ],
+                    [
+                        1.7776304,
+                        41.2613152
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-11T13:53:46.096Z",
+                "endTimestamp": "2022-11-11T13:55:48.825Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777407,
+                        41.2612933
+                    ],
+                    [
+                        1.7752628,
+                        41.2605024
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-11T14:32:41.417Z",
+                "endTimestamp": "2022-11-11T14:39:24.507Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7754943,
+                        41.2603723
+                    ],
+                    [
+                        1.7772976,
+                        41.2614685
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-11T14:54:29.126Z",
+                "endTimestamp": "2022-11-11T14:59:07.693Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.776924,
+                        41.2616815
+                    ],
+                    [
+                        1.7802369,
+                        41.2634177
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-11T15:15:37.647Z",
+                "endTimestamp": "2022-11-11T15:17:39.623Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7811122,
+                        41.2636096
+                    ],
+                    [
+                        1.777651,
+                        41.2613081
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-11T21:52:59.431Z",
+                "endTimestamp": "2022-11-11T22:04:13.664Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7776119,
+                        41.2613474
+                    ],
+                    [
+                        1.780436,
+                        41.2634534
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-11T22:46:02.805Z",
+                "endTimestamp": "2022-11-11T22:50:36.725Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810493,
+                        41.2635325
+                    ],
+                    [
+                        1.7767633,
+                        41.2612471
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-12T12:29:14.604Z",
+                "endTimestamp": "2022-11-12T12:31:43.238Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7767547,
+                        41.2612413
+                    ],
+                    [
+                        1.78044,
+                        41.2631152
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-12T12:36:03.641Z",
+                "endTimestamp": "2022-11-12T12:38:41.680Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7769052,
+                        41.2611087
+                    ],
+                    [
+                        1.7796678,
+                        41.2633486
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-12T13:25:26.657Z",
+                "endTimestamp": "2022-11-12T13:27:05.077Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7811347,
+                        41.2637256
+                    ],
+                    [
+                        1.7767633,
+                        41.2612482
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-12T18:28:11.768Z",
+                "endTimestamp": "2022-11-12T18:31:47.042Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7772496,
+                        41.2622065
+                    ],
+                    [
+                        1.7810631,
+                        41.2636189
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-12T20:22:58.675Z",
+                "endTimestamp": "2022-11-12T20:25:00.806Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7811448,
+                        41.2637661
+                    ],
+                    [
+                        1.7777213,
+                        41.2612924
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-13T12:40:53.007Z",
+                "endTimestamp": "2022-11-13T12:44:38.507Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.777567,
+                        41.2613354
+                    ],
+                    [
+                        1.775224,
+                        41.2605136
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-13T13:20:39.855Z",
+                "endTimestamp": "2022-11-13T13:22:41.518Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.775281,
+                        41.2606676
+                    ],
+                    [
+                        1.7810536,
+                        41.2636131
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-13T13:32:11.468Z",
+                "endTimestamp": "2022-11-13T13:38:18.727Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7804463,
+                        41.2632664
+                    ],
+                    [
+                        1.7777393,
+                        41.2612874
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-13T21:09:13.587Z",
+                "endTimestamp": "2022-11-13T21:11:56.668Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7773031,
+                        41.2614589
+                    ],
+                    [
+                        1.7809798,
+                        41.2633991
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-13T21:42:37.162Z",
+                "endTimestamp": "2022-11-13T21:52:38.865Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810607,
+                        41.2636145
+                    ],
+                    [
+                        1.777619,
+                        41.2613158
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-14T12:31:09.681Z",
+                "endTimestamp": "2022-11-14T12:36:44.910Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7775891,
+                        41.2613116
+                    ],
+                    [
+                        1.7810619,
+                        41.2636127
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-14T13:12:19.921Z",
+                "endTimestamp": "2022-11-14T13:16:25.469Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7805534,
+                        41.2633842
+                    ],
+                    [
+                        1.777701,
+                        41.2612922
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-14T19:57:53.981Z",
+                "endTimestamp": "2022-11-14T20:04:14.985Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777413,
+                        41.2612907
+                    ],
+                    [
+                        1.78106,
+                        41.2636102
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-14T21:22:58.466Z",
+                "endTimestamp": "2022-11-14T21:28:00.807Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810624,
+                        41.2636138
+                    ],
+                    [
+                        1.777737,
+                        41.2612905
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-15T09:00:51.634Z",
+                "endTimestamp": "2022-11-15T09:05:59.796Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7769758,
+                        41.2618476
+                    ],
+                    [
+                        1.7810625,
+                        41.263603
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-15T20:56:44.726Z",
+                "endTimestamp": "2022-11-15T20:58:45.702Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810625,
+                        41.263603
+                    ],
+                    [
+                        1.7767773,
+                        41.2612368
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-15T21:26:26.960Z",
+                "endTimestamp": "2022-11-15T21:32:05.998Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7767809,
+                        41.2612169
+                    ],
+                    [
+                        1.7810544,
+                        41.2636097
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-15T21:45:56.167Z",
+                "endTimestamp": "2022-11-15T22:01:06.897Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810575,
+                        41.2636181
+                    ],
+                    [
+                        1.7656693,
+                        41.2537611
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-16T08:57:12.425Z",
+                "endTimestamp": "2022-11-16T09:20:27.737Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.766901,
+                        41.2534561
+                    ],
+                    [
+                        1.7767786,
+                        41.261239
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-16T10:33:59.815Z",
+                "endTimestamp": "2022-11-16T10:59:39.068Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.777865,
+                        41.2613323
+                    ],
+                    [
+                        1.7810571,
+                        41.2636167
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-16T11:34:46.834Z",
+                "endTimestamp": "2022-11-16T11:38:22.092Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810607,
+                        41.2636165
+                    ],
+                    [
+                        1.7776165,
+                        41.2619655
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-16T12:05:38.102Z",
+                "endTimestamp": "2022-11-16T12:08:06.212Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7767754,
+                        41.2612344
+                    ],
+                    [
+                        1.7809054,
+                        41.2636045
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-16T15:26:45.240Z",
+                "endTimestamp": "2022-11-16T16:03:12.176Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7811253,
+                        41.2637063
+                    ],
+                    [
+                        1.7811297,
+                        41.2637204
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-16T16:32:32.572Z",
+                "endTimestamp": "2022-11-16T16:53:33.669Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7811526,
+                        41.2637496
+                    ],
+                    [
+                        1.7767721,
+                        41.2612433
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-16T18:50:05.807Z",
+                "endTimestamp": "2022-11-16T19:12:40.209Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7767791,
+                        41.2612167
+                    ],
+                    [
+                        1.781055,
+                        41.2635918
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-16T19:15:29.892Z",
+                "endTimestamp": "2022-11-16T19:22:57.310Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810729,
+                        41.263621
+                    ],
+                    [
+                        1.7772784,
+                        41.2614639
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-17T10:01:34.985Z",
+                "endTimestamp": "2022-11-17T10:05:10.986Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777095,
+                        41.2613079
+                    ],
+                    [
+                        2.1062331,
+                        41.3452599
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-17T10:11:33.884Z",
+                "endTimestamp": "2022-11-17T10:42:06.812Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1064578,
+                        41.3453896
+                    ],
+                    [
+                        1.7772636,
+                        41.2614996
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-17T11:23:27.928Z",
+                "endTimestamp": "2022-11-17T11:53:54.839Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777356,
+                        41.2612841
+                    ],
+                    [
+                        1.8057472,
+                        41.2343587
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-18T08:53:22.186Z",
+                "endTimestamp": "2022-11-18T09:10:03.465Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8065726,
+                        41.2348274
+                    ],
+                    [
+                        1.808742,
+                        41.2351699
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-18T10:32:09.262Z",
+                "endTimestamp": "2022-11-18T10:34:38.130Z",
+                "activityType": "WALKING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8106631,
+                        41.2362056
+                    ],
+                    [
+                        1.7728512,
+                        41.2612262
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-18T11:40:35.270Z",
+                "endTimestamp": "2022-11-18T12:05:25.833Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7728107,
+                        41.261221
+                    ],
+                    [
+                        1.7810774,
+                        41.2636204
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-18T12:16:42.900Z",
+                "endTimestamp": "2022-11-18T12:26:15.284Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777362,
+                        41.2612967
+                    ],
+                    [
+                        1.7810499,
+                        41.2635881
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-18T13:51:56.536Z",
+                "endTimestamp": "2022-11-19T09:12:09.686Z",
+                "activityType": "UNKNOWN_ACTIVITY_TYPE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.780215,
+                        41.2633876
+                    ],
+                    [
+                        1.7777343,
+                        41.2612883
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-19T10:34:12.441Z",
+                "endTimestamp": "2022-11-19T10:40:30.792Z",
+                "activityType": "WALKING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7752565,
+                        41.2604965
+                    ],
+                    [
+                        1.7809101,
+                        41.2635965
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-19T11:16:49.446Z",
+                "endTimestamp": "2022-11-19T11:21:50.423Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.780438,
+                        41.2633622
+                    ],
+                    [
+                        1.7777376,
+                        41.2612869
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-19T12:07:29.414Z",
+                "endTimestamp": "2022-11-19T12:12:31.844Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777985,
+                        41.2613061
+                    ],
+                    [
+                        1.781064,
+                        41.2636293
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-19T16:59:35.597Z",
+                "endTimestamp": "2022-11-19T17:07:18.059Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7804192,
+                        41.2633319
+                    ],
+                    [
+                        1.7777392,
+                        41.2612866
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-19T18:56:14.285Z",
+                "endTimestamp": "2022-11-19T19:01:16.655Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.777609,
+                        41.2613277
+                    ],
+                    [
+                        1.781074,
+                        41.2636444
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-20T08:50:01.382Z",
+                "endTimestamp": "2022-11-20T08:54:30.636Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7804,
+                        41.2633868
+                    ],
+                    [
+                        1.7777389,
+                        41.2612935
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-20T09:16:04.852Z",
+                "endTimestamp": "2022-11-20T09:21:08.855Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.777681,
+                        41.2611783
+                    ],
+                    [
+                        1.805764,
+                        41.2343502
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-20T10:25:36.823Z",
+                "endTimestamp": "2022-11-20T10:51:06.645Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8057363,
+                        41.2342694
+                    ],
+                    [
+                        1.8070384,
+                        41.2388039
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-20T11:05:11.245Z",
+                "endTimestamp": "2022-11-20T11:10:11.696Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8064559,
+                        41.2380627
+                    ],
+                    [
+                        1.7776485,
+                        41.261155
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-20T11:17:51.204Z",
+                "endTimestamp": "2022-11-20T11:27:55.731Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7776116,
+                        41.2613149
+                    ],
+                    [
+                        1.7809437,
+                        41.2634367
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-20T13:59:28.004Z",
+                "endTimestamp": "2022-11-20T14:28:35.651Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.780955,
+                        41.2635166
+                    ],
+                    [
+                        1.7771457,
+                        41.2624489
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-20T17:05:11.258Z",
+                "endTimestamp": "2022-11-20T17:08:56Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7771321,
+                        41.2622939
+                    ],
+                    [
+                        1.7809066,
+                        41.2636115
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-21T08:24:40.147Z",
+                "endTimestamp": "2022-11-21T08:28:13.643Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810553,
+                        41.2636088
+                    ],
+                    [
+                        1.7775851,
+                        41.2613003
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-21T09:06:03.600Z",
+                "endTimestamp": "2022-11-21T09:10:18.061Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7771189,
+                        41.2619735
+                    ],
+                    [
+                        1.7893857,
+                        41.2700433
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-21T09:18:39.288Z",
+                "endTimestamp": "2022-11-21T09:23:48.864Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7894035,
+                        41.270023
+                    ],
+                    [
+                        1.7777316,
+                        41.2612917
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-21T10:04:30.209Z",
+                "endTimestamp": "2022-11-21T10:12:48.743Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777383,
+                        41.2612873
+                    ],
+                    [
+                        1.7809003,
+                        41.2636033
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-21T11:09:38.649Z",
+                "endTimestamp": "2022-11-21T11:17:22.445Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.781076,
+                        41.263613
+                    ],
+                    [
+                        1.7776102,
+                        41.2613288
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-21T12:03:00.697Z",
+                "endTimestamp": "2022-11-21T12:05:55.473Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7783002,
+                        41.2624966
+                    ],
+                    [
+                        1.7797283,
+                        41.26333
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-21T16:52:09Z",
+                "endTimestamp": "2022-11-21T16:54:54.411Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7806572,
+                        41.2633761
+                    ],
+                    [
+                        1.7775779,
+                        41.2613071
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-21T17:30:16.948Z",
+                "endTimestamp": "2022-11-21T17:32:49.468Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7773201,
+                        41.262383
+                    ],
+                    [
+                        1.7810573,
+                        41.2636081
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-21T18:22:38.408Z",
+                "endTimestamp": "2022-11-21T18:24:43.803Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810858,
+                        41.2636668
+                    ],
+                    [
+                        1.7776175,
+                        41.2613176
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-21T18:45:02.598Z",
+                "endTimestamp": "2022-11-21T18:50:46.675Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7775788,
+                        41.2612973
+                    ],
+                    [
+                        1.777823,
+                        41.2613149
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T08:22:23.355Z",
+                "endTimestamp": "2022-11-22T10:00:14.617Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7771044,
+                        41.2619723
+                    ],
+                    [
+                        1.8205779,
+                        41.2383678
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T10:16:27.600Z",
+                "endTimestamp": "2022-11-22T10:32:41.420Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.8201707,
+                        41.2383485
+                    ],
+                    [
+                        1.7775935,
+                        41.2613378
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T10:43:33.681Z",
+                "endTimestamp": "2022-11-22T11:39:16.072Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7756547,
+                        41.262043
+                    ],
+                    [
+                        1.7810601,
+                        41.2636087
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T12:01:42Z",
+                "endTimestamp": "2022-11-22T12:14:17.348Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7796013,
+                        41.2632454
+                    ],
+                    [
+                        1.7776251,
+                        41.2613172
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T12:29:28.181Z",
+                "endTimestamp": "2022-11-22T12:31:10.494Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777311,
+                        41.2612853
+                    ],
+                    [
+                        1.7810583,
+                        41.2636239
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T13:08:57.242Z",
+                "endTimestamp": "2022-11-22T13:19:45.846Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7804636,
+                        41.2632712
+                    ],
+                    [
+                        1.7710508,
+                        41.2586541
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T14:06:21.876Z",
+                "endTimestamp": "2022-11-22T14:12:31.336Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7714398,
+                        41.2593443
+                    ],
+                    [
+                        1.7752445,
+                        41.2604892
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T14:41:17.651Z",
+                "endTimestamp": "2022-11-22T14:47:38.960Z",
+                "activityType": "WALKING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7756257,
+                        41.2610778
+                    ],
+                    [
+                        1.7807048,
+                        41.2635429
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T15:06:34.656Z",
+                "endTimestamp": "2022-11-22T15:12:10Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7801428,
+                        41.2634193
+                    ],
+                    [
+                        1.7776724,
+                        41.2612998
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T15:34:56.590Z",
+                "endTimestamp": "2022-11-22T15:38:30.125Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7776461,
+                        41.2613173
+                    ],
+                    [
+                        1.7762425,
+                        41.2593894
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T15:46:15.466Z",
+                "endTimestamp": "2022-11-22T15:51:19.135Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7761467,
+                        41.2594856
+                    ],
+                    [
+                        1.7807345,
+                        41.2635105
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-22T15:56:30.340Z",
+                "endTimestamp": "2022-11-22T16:01:41.755Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810726,
+                        41.2636145
+                    ],
+                    [
+                        1.7775868,
+                        41.2613244
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-23T17:56:43.894Z",
+                "endTimestamp": "2022-11-23T18:09:31.426Z",
+                "activityType": "MOTORCYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7771532,
+                        41.2620814
+                    ],
+                    [
+                        1.7805982,
+                        41.2634871
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-23T18:18:01.590Z",
+                "endTimestamp": "2022-11-23T18:19:37.941Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810985,
+                        41.2636747
+                    ],
+                    [
+                        1.7736012,
+                        41.2610818
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-23T19:03:29.804Z",
+                "endTimestamp": "2022-11-23T19:13:05.947Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7735594,
+                        41.2611081
+                    ],
+                    [
+                        1.7810552,
+                        41.2636119
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-23T19:23:01.417Z",
+                "endTimestamp": "2022-11-23T19:26:58.420Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7808241,
+                        41.263552
+                    ],
+                    [
+                        1.7767859,
+                        41.2610781
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-24T09:26:46.916Z",
+                "endTimestamp": "2022-11-24T09:30:29.421Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7770056,
+                        41.2611578
+                    ],
+                    [
+                        1.7752207,
+                        41.2604874
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-24T13:55:59.791Z",
+                "endTimestamp": "2022-11-24T14:01:07.259Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7761545,
+                        41.2594816
+                    ],
+                    [
+                        1.7810019,
+                        41.2634626
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-24T14:16:16.756Z",
+                "endTimestamp": "2022-11-24T14:22:25.638Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810945,
+                        41.2636736
+                    ],
+                    [
+                        1.7768076,
+                        41.2611865
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-24T18:11:27.561Z",
+                "endTimestamp": "2022-11-24T18:12:09.634Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7778927,
+                        41.2618421
+                    ],
+                    [
+                        1.7810676,
+                        41.26362
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-24T19:15:44.402Z",
+                "endTimestamp": "2022-11-24T19:19:19.767Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810521,
+                        41.2636253
+                    ],
+                    [
+                        1.776785,
+                        41.2598327
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-24T20:07:53.055Z",
+                "endTimestamp": "2022-11-24T20:17:14.370Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7751349,
+                        41.2603748
+                    ],
+                    [
+                        1.7810514,
+                        41.2635905
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-24T20:23:22.552Z",
+                "endTimestamp": "2022-11-24T20:28:57.662Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7803094,
+                        41.2634232
+                    ],
+                    [
+                        1.7775317,
+                        41.2613277
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-25T10:48:30.869Z",
+                "endTimestamp": "2022-11-25T10:51:09.484Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.777403,
+                        41.2623997
+                    ],
+                    [
+                        1.7809037,
+                        41.2636066
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-25T10:56:42.868Z",
+                "endTimestamp": "2022-11-25T11:01:21.154Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7807092,
+                        41.2619778
+                    ],
+                    [
+                        1.7781617,
+                        41.2617067
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-25T12:19:27Z",
+                "endTimestamp": "2022-11-25T12:20:27Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7767775,
+                        41.261236
+                    ],
+                    [
+                        1.7809142,
+                        41.2635609
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-25T14:33:55.660Z",
+                "endTimestamp": "2022-11-25T14:40:08.348Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.780652,
+                        41.2630029
+                    ],
+                    [
+                        1.789451,
+                        41.2699731
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-25T19:48:11.403Z",
+                "endTimestamp": "2022-11-25T20:02:41.701Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7894109,
+                        41.2700721
+                    ],
+                    [
+                        1.7810372,
+                        41.2635767
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-25T22:22:03.154Z",
+                "endTimestamp": "2022-11-25T22:30:18.095Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7808974,
+                        41.2637229
+                    ],
+                    [
+                        1.7893899,
+                        41.2700455
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-26T17:44:16.355Z",
+                "endTimestamp": "2022-11-26T17:49:17.478Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7893832,
+                        41.2700576
+                    ],
+                    [
+                        1.7809052,
+                        41.26361
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-26T19:45:34.576Z",
+                "endTimestamp": "2022-11-26T19:50:33.509Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7810551,
+                        41.263612
+                    ],
+                    [
+                        1.7754564,
+                        41.2601962
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-26T20:30:32.098Z",
+                "endTimestamp": "2022-11-26T20:52:24.752Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.775198,
+                        41.2604963
+                    ],
+                    [
+                        1.7809209,
+                        41.2636092
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-26T21:43:45.646Z",
+                "endTimestamp": "2022-11-26T21:49:58.064Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7809206,
+                        41.2636139
+                    ],
+                    [
+                        1.7777308,
+                        41.2612872
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-28T12:11:17.183Z",
+                "endTimestamp": "2022-11-28T12:29:21.561Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7778418,
+                        41.2613284
+                    ],
+                    [
+                        1.7809007,
+                        41.2636069
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-28T13:24:22.844Z",
+                "endTimestamp": "2022-11-28T14:26:04.186Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7809858,
+                        41.2636582
+                    ],
+                    [
+                        1.7761826,
+                        41.2590201
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-29T16:32:16.683Z",
+                "endTimestamp": "2022-11-29T16:44:09.158Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7767838,
+                        41.2585628
+                    ],
+                    [
+                        1.7736294,
+                        41.2610515
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-29T17:00:36.075Z",
+                "endTimestamp": "2022-11-29T17:13:22.009Z",
+                "activityType": "MOTORCYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7737592,
+                        41.2612159
+                    ],
+                    [
+                        1.7777273,
+                        41.2612876
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-29T17:21:18.996Z",
+                "endTimestamp": "2022-11-29T17:31:07.757Z",
+                "activityType": "MOTORCYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7776101,
+                        41.261316
+                    ],
+                    [
+                        1.7808904,
+                        41.2635054
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-29T17:43:40.012Z",
+                "endTimestamp": "2022-11-29T17:47:39.936Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7809104,
+                        41.2636021
+                    ],
+                    [
+                        1.7654165,
+                        41.2538562
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-30T07:52:16.618Z",
+                "endTimestamp": "2022-11-30T08:03:53.575Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.765404,
+                        41.2539129
+                    ],
+                    [
+                        1.7777731,
+                        41.2603554
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-30T08:22:03.455Z",
+                "endTimestamp": "2022-11-30T08:27:04Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7777456,
+                        41.2612893
+                    ],
+                    [
+                        1.7809591,
+                        41.2636362
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-30T08:41:57.732Z",
+                "endTimestamp": "2022-11-30T08:46:52.023Z",
+                "activityType": "CYCLING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.780912,
+                        41.2636101
+                    ],
+                    [
+                        1.7894466,
+                        41.2700707
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-30T16:39:43.597Z",
+                "endTimestamp": "2022-11-30T16:49:45.827Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7893356,
+                        41.269952
+                    ],
+                    [
+                        1.7807463,
+                        41.2629627
+                    ]
+                ]
+            },
+            "properties": {
+                "startTimestamp": "2022-11-30T18:40:00.515Z",
+                "endTimestamp": "2022-11-30T18:42:21.030Z",
+                "activityType": "IN_PASSENGER_VEHICLE"
+            }
+        }
+    ]
+}

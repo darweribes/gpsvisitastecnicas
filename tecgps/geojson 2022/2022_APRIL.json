@@ -1,0 +1,109 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 412699319,
+        "longitudeE7": 17894057,
+        "placeId": "ChIJz2Hi8H5_pBIR5MJAXsmTHmw",
+        "address": "Carrer Milà, S/N, 08810 Barcelona, Espanya",
+        "name": "Can Lloses",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 100.0,
+        "calibratedProbability": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2022-04-30T00:40:49Z",
+        "endTimestamp": "2022-05-01T12:02:39Z"
+      },
+      "placeConfidence": "USER_CONFIRMED",
+      "visitConfidence": 100,
+      "otherCandidateLocations": [{
+        "latitudeE7": 412695607,
+        "longitudeE7": 17932658,
+        "placeId": "ChIJs3Qo04F_pBIRrc-TqweiIzQ",
+        "address": "Av. Mercè de la Penya, 14, 08810 Sant Pere de Ribes, Barcelona, Espanya",
+        "locationConfidence": 16.141882,
+        "calibratedProbability": 13.9104
+      }, {
+        "latitudeE7": 412791828,
+        "longitudeE7": 18257616,
+        "placeId": "ChIJ9d5Z2X-AoxIRBk7dJegVOac",
+        "address": "Barcelona, España",
+        "name": "Riera de Jafra",
+        "locationConfidence": 12.654628,
+        "calibratedProbability": 10.90523
+      }, {
+        "latitudeE7": 407118101,
+        "longitudeE7": -36320002,
+        "placeId": "ChIJl14r7jzVaQ0RcMp-0n77-78",
+        "name": "Iberian Peninsula",
+        "locationConfidence": 7.720203,
+        "calibratedProbability": 6.652949
+      }, {
+        "latitudeE7": 412695432,
+        "longitudeE7": 17930068,
+        "placeId": "ChIJGd7g1IF_pBIR0ZDaUgtsauQ",
+        "address": "Av. Mercè de la Penya, 10, 08810 Sant Pere de Ribes, Barcelona, Espanya",
+        "locationConfidence": 4.9913435,
+        "calibratedProbability": 4.3013315
+      }, {
+        "latitudeE7": 412693906,
+        "longitudeE7": 17906943,
+        "placeId": "ChIJJ-ugEbN_pBIRxYXHMMF9oaM",
+        "address": "Av. Marce de la, Carrer Penya, 08810, Barcelona, España",
+        "name": "AVIVA, espai lúdico-cultural de Can Lloses-Can Marcer",
+        "locationConfidence": 2.9634557,
+        "calibratedProbability": 2.5537825
+      }, {
+        "latitudeE7": 412694474,
+        "longitudeE7": 17927445,
+        "placeId": "ChIJjXongH9_pBIR7WHukRqkmFo",
+        "address": "Av. Mercè de la Penya, 8, 08810 Sant Pere de Ribes, Barcelona, Espanya",
+        "locationConfidence": 2.1017556,
+        "calibratedProbability": 1.8112053
+      }, {
+        "latitudeE7": 370347000,
+        "longitudeE7": 167402994,
+        "placeId": "ChIJnzxHHLghFBMRQPjM_opZky4",
+        "name": "Mediterranean Sea",
+        "locationConfidence": 1.8647208,
+        "calibratedProbability": 1.6069386
+      }, {
+        "latitudeE7": 412694897,
+        "longitudeE7": 17932921,
+        "placeId": "ChIJs3Qo04F_pBIRrc-TqweiIzQ",
+        "address": "Av. Mercè de la Penya, 14, 08810 Sant Pere de Ribes, Barcelona, Espanya",
+        "locationConfidence": 1.6099917,
+        "calibratedProbability": 1.3874236
+      }, {
+        "latitudeE7": 412696736,
+        "longitudeE7": 17932560,
+        "placeId": "ChIJccO504F_pBIR30Vg8YTal9A",
+        "address": "Av. Mercè de la Penya, 17, 08810 Sant Pere de Ribes, Barcelona, Espanya",
+        "locationConfidence": 1.2723593,
+        "calibratedProbability": 1.0964661
+      }],
+      "editConfirmationStatus": "CONFIRMED",
+      "locationConfidence": 100,
+      "placeVisitType": "SINGLE_PLACE",
+      "locationAssertionType": "WITHIN_OR_AT",
+      "lastEditedTimestamp": "2022-10-30T06:02:36.776Z",
+      "placeVisitImportance": "MAIN",
+      "editActionMetadata": {
+        "editHistory": {
+          "editEvent": [{
+            "editOperation": ["MODIFY_UNCHANGED"],
+            "uiConfiguration": {
+              "uiPlaceVisitConfiguration": "DEFAULT_PLACE_VISIT_CONFIGURATION"
+            }
+          }, {
+            "editOperation": ["MODIFY_UNCHANGED"],
+            "uiConfiguration": {
+              "uiPlaceVisitConfiguration": "DEFAULT_PLACE_VISIT_CONFIGURATION"
+            }
+          }]
+        }
+      }
+    }
+  }]
+}
